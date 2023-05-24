@@ -3,4 +3,5 @@ jelly Resolusi
 -membuat website informasi keuangan
 -honkai star rail
 -mobile legend
+**baldmod
 
